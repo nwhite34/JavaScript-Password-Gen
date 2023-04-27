@@ -1,0 +1,13 @@
+{
+  "name": "Password Generator",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "Nicholas Whiteley",
+    "build": "Nicholas Whiteley build",
+    "preview": "Nicholas Whiteley preview"
+  }
+}
